@@ -41,3 +41,5 @@ forms:
 # Contact
 
 Lorem Ipsum..
+
+{% include form.html %}

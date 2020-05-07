@@ -3,7 +3,7 @@ layout: page
 forms:
   - to: itsguus@gmail.com
     subject: New submission!
-    redirect: /
+    redirect: /jekyll_first_try
     form_engine: cloudcannon
     placeholders: false
     fields:

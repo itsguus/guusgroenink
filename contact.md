@@ -4,9 +4,9 @@ forms:
   - to: itsguus@gmail.com
     subject: New submission!
     redirect: /
-    form_engine: formspree
+    form_engine: cloudcannon
     placeholders: false
-    fields: 
+    fields:
       - name: name
         input_type: text
         placeholder: Name
@@ -14,14 +14,6 @@ forms:
       - name: email
         input_type: email
         placeholder: Email address
-        required: true
-      - name: sex
-        input_type: radio
-        placeholder: male
-        required: true
-      - name: sex
-        input_type: radio
-        placeholder: female
         required: true
       - name: message
         input_type: textarea

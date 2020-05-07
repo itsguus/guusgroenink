@@ -1,1 +1,1 @@
-document.querySelector("p").textContent = "Lorem Ipsum by JavaScript";
+document.querySelector(".javascriptTest").textContent = "Lorem Ipsum by JavaScript";

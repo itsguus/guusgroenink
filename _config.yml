@@ -1,2 +1,20 @@
 baseurl: /jekyll_first_try
 permalink: pretty
+
+
+input_types:
+  - text
+  - textarea
+  - email
+  - date
+  - checkbox
+  - radio
+  - number
+  - submit
+  - recaptcha
+
+form_engines:
+  - cloudcannon
+  - formspree
+  - formbucket
+  - netlify

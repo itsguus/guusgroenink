@@ -31,7 +31,7 @@ forms:
 
 # Contact
 
-Lorem Ipsum..&nbsp; [this is a link](https;//www.google.com/){: target="_blank"}
+Lorem Ipsum..&nbsp; [this is a link](https;//www.google.com/){: target="_blank"}s
 
 &nbsp;
 

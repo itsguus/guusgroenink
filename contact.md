@@ -33,6 +33,6 @@ forms:
 
 Lorem Ipsum..&nbsp;
 
-[this is a link](https;//www.google.com/){: target="_blank"}s
+[this is a link](https;//www.google.com/){: target="_blank"}
 
 *this is italic*

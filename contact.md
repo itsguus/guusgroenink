@@ -1,6 +1,5 @@
 ---
 layout: page
----
 forms:
   - to: itsguus@gmail.com
     subject: New submission!

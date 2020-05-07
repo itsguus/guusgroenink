@@ -37,8 +37,10 @@ forms:
         required: true
 ---
 
-
 # Contact
 
-Lorem Ipsum..
+Lorem Ipsum..&nbsp; [this is a link](https;//www.google.com/){: target="_blank"}
 
+&nbsp;
+
+*this is italic*

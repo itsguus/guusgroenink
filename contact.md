@@ -42,4 +42,3 @@ forms:
 
 Lorem Ipsum..
 
-{% include form.html %}

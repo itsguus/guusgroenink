@@ -2,4 +2,4 @@
 layout: page
 ---
 
-# Hi, I'm Guus.
+I'm an Amsterdam based student, designer & developer. 

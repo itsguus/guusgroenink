@@ -1,6 +1,8 @@
-body > .container > .row > * { padding-top:30px;}
-#footer {padding-top: 30px; font-style: italic; color: gray; }
+* {
+    background: black;
+}
 
-
-
-
+body {
+    width: 100px;
+    height: 500px;
+}

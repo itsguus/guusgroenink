@@ -4,4 +4,4 @@ layout: page
 
 # About this website
 
-Lorem ipsum.
+Wat gebeurt hier allemaal joh.

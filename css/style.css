@@ -19,7 +19,7 @@ ul li:nth-child(2) a {background-image: url(../img/mail.png)}
 ul li:nth-child(3) a {background-image: url(../img/insta.png)}
 
 
-/* 
+
 @media only screen and (min-width: 700px)  {
 body {display: none;}
-} */
+}
